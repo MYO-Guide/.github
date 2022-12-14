@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="300" src="https://github.com/MYO-Guide/.github/blob/f5f692beb11b949ca125e7bf1782d6de63944987/rsc/img/MYOguide_banner.svg">
+  <img height="200" src="https://github.com/MYO-Guide/.github/blob/7052da6a54c3e760c25e85245027fbab932faa86/rsc/img/MYOguide_banner.png">
 </p>
 
 MYO-Guide is a fully automatic pipeline for providing muscle disease diagnostic using MRI, composed of multiple tools that can be used independently:
