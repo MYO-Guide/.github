@@ -8,4 +8,4 @@ MYO-Guide is a fully automatic pipeline for providing muscle disease diagnostic 
  - Muscle disease diagnostic model
  - MRI processing tools
 
- MYO-Guide aims to provide clinicians and researchers with tools to accelerate diagnostic, image processing and investigation in muscle diseases. Find out more in our [web portal](#).
+ MYO-Guide aims to provide clinicians and researchers with tools to accelerate diagnostic, image processing and investigation in muscle diseases. Find out more in our [web portal](https://myo-guide.github.io/MYOG-portal/).
